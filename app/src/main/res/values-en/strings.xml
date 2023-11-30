@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tests</string>
+    <string name="tile_lbl">Select your Language</string>
+    <string name="lang_list_lbl">"Languages : "</string>
+    <string name="en">English</string>
+    <string name="it">Italian</string>
+</resources>

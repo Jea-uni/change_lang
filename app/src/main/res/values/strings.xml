@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">tests</string>
+    <string name="tile_lbl">Seleziona La Lingua</string>
+    <string name="lang_list_lbl">Lingue : </string>
+    <string name="it">Italiano</string>
+    <string name="en">Inglese</string>
 </resources>
